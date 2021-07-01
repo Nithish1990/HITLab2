@@ -1,4 +1,4 @@
-package begineers;
+package Exersice;
 
 public class UniversalRemote {
 	public static void main(String[] args) {
